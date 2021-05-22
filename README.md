@@ -8,7 +8,8 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales
 
 Xiao Song 宋骁
 
-<https://xsong.ltd/en>     
+<https://xsong.ltd/>  
+
 [![](https://img.shields.io/badge/-Kaggle-20beff?style=flat-square&logo=Kaggle&logoColor=fff)](https://www.kaggle.com/rikdifos)
 
 
